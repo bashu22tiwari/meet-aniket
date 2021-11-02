@@ -5,12 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -22,9 +16,16 @@ Here are some ideas to get you started:
 
 
 
+- 🔭 I’m currently working as Full Stack JavaScript Developer @ Hotwax Systems
+- 🌱 I’m currently learning Vuejs && Nuxtjs
+- 👯 I’m looking to collaborate on Vue Store Front
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about JavaScript Related Help 
+- 📫 How to reach me: Linkedin
 
 
-<p align="justify">I work as a Enterprise JavaScript Developer at HotWax Systems having expertise of developing enterprise applications in React, React Native, Ionic, Vue, Nuxt, Node and Express. A Block-Chain enthusiast, working on building smart contracts using solidity and Ethereum.
-</p>
+
+I am a **Enterprise JavaScript Developer** @ HotWax Systems having expertise of developing enterprise applications in React, React Native, Ionic, Vue, Nuxt, Node and Express. A **Block-Chain** enthusiast, working on building smart contracts using solidity and Ethereum.
+
 
 ![Aniket Kumar Pandey's Github Stats](https://github-readme-stats.vercel.app/api?username=meet-aniket&show_icons=true)  
