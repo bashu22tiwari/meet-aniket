@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=meet-aniket.meet-aniket)
-[![Linkedin: aditya-p-sharma](https://img.shields.io/badge/-@niket_Pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meet-aniket/)](https://www.linkedin.com/in/meet-aniket/)
+[![Linkedin: meet-aniket](https://img.shields.io/badge/-@niket_Pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meet-aniket/)](https://www.linkedin.com/in/meet-aniket/)
 [![Github](https://img.shields.io/github/followers/meet-aniket?label=Follow&style=social)](https://github.com/meet-aniket)  
 
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Vue Store Front
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about JavaScript Related Help 
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me: [![Linkedin: meet-aniket](https://img.shields.io/badge/-@niket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meet-aniket/)](https://www.linkedin.com/in/meet-aniket/)
 
 
 
