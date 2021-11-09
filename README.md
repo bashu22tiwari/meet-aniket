@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working as Full Stack JavaScript Developer @ Hotwax Systems
-- 🌱 I’m currently learning Vuejs && Nuxtjs
-- 👯 I’m looking to collaborate on Vue Store Front
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about JavaScript Related Help 
-- 📫 How to reach me: [![Linkedin: meet-aniket](https://img.shields.io/badge/-@niket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meet-aniket/)](https://www.linkedin.com/in/meet-aniket/)
+- 🔭 Currently working as Full Stack JavaScript Developer @t Hotwax Systems (Vuejs && Nuxtjs)
+- 👯 One of the collaborator of Vue Store Front
+- 🤔 Rradey to help peoples who are looking ...
+- 💬 You can ask about JavaScript Related Help as well 
+- 📫 How to reach me out to me: [![Linkedin: meet-aniket](https://img.shields.io/badge/-@niket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meet-aniket/)](https://www.linkedin.com/in/meet-aniket/)
 
 
 
