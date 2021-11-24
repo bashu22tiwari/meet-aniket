@@ -1,4 +1,4 @@
-# Hey There! <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hi.gif" width="40px"></h2>
+# Hey There! <img src="https://github.com/meet-aniket/meet-aniket/main/gifs/hi.gif" width="40px"></h2>
 <!--
 **meet-aniket/meet-aniket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
